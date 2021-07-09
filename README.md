@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Julien Barrier">
   <img align="left" alt="Julien Barrier | Twitter" width="21px" src="https://raw.githubusercontent.com/julienbarrier/.github/master/assets/twitter.svg" />
   Find me on twitter!
-</a><br />
+</a><br /><br />
 
 Hi, I'm Julien Barrier, currently PhD student in Condensed Matter Physics at The
 University of Manchester. Here are some of the projects I'm working on, involving
@@ -20,6 +20,6 @@ physics and lab task automation.
 
 <a href="https://github.com/julienbarrier">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=julienbarrier&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
-  <img height="137px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=julienbarrier&hide_title=true&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbarrier&hide_title=true&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
 

@@ -36,7 +36,5 @@ more on [julienbarrier.eu](https://julienbarrier.eu/)
 
 ### stats
 
-<a href="https://github.com/julienbarrier">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=julienbarrier&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbarrier&hide_title=true&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=dracula&hide=tex,html,css,vim+script" />
-</a>
+![](https://raw.githubusercontent.com/julienbarrier/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/julienbarrier/github-stats-transparent/output/generated/languages.svg)

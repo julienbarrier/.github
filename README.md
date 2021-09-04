@@ -26,7 +26,6 @@ physics and lab task automation.
 * Ballistic transport of Brown-Zak fermions, Nat. Comms. 2020 -->
 
 ### latest blog posts
-
 <!-- BLOG-POST-LIST:START -->* [Enable high voltage on a Keithley sourcemeter](http://julienbarrier.eu/blog/2021/08/28/keithley-interlock.html) - 28 Aug 2021
 * [Connect LXI instruments to a linux server](http://julienbarrier.eu/blog/2021/08/14/LXI-to-linux.html) - 14 Aug 2021
 * [The meaning of σ](http://julienbarrier.eu/blog/2021/03/25/meaning-sigma.html) - 25 Mar 2021

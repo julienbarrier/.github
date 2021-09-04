@@ -16,5 +16,5 @@ jobs:
           committer_username: "julienbarrier"
           committer_email: "1346858+julienbarrier@users.noreply.github.com"
           commit_message: "updated readme with blog post"
-          template: "* [$title]($url) - $date$newline"
+          template: "$newline* [$title]($url) - $date"
           date_format: "d mmm yyyy"

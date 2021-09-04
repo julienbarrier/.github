@@ -16,10 +16,23 @@ physics and lab task automation.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX&logoColor=008080)
 
+<!-- ### projects -->
+
+<!-- here add a list of projects -->
+
+<!-- ### code and data for academic papers
+
+* Heterogeneity in perovskite alloys, EES 2021
+* Ballistic transport of Brown-Zak fermions, Nat. Comms. 2020 -->
+
+### latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+more on [julienbarrier.eu](https://julienbarrier.eu/)
+
 ### stats
 
 <a href="https://github.com/julienbarrier">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=julienbarrier&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbarrier&hide_title=true&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
-

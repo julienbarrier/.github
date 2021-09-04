@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:  # run workflow automatically
+    - cron: '0 * * * *'  # run every hour
+  workflow_dispatch:  # for manual running, through Github Actions
+jobs:
+  update-readme-with-blog-post:
+    name: Update readme with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: julienbarrier/blog-post-workflow
+        with:
+          feed_list: "https://julienbarrier.eu/feed.xml"
+          max_post_count: 5
+          committer_username: "julienbarrier"
+          committer_email: "1346858+julienbarrier@users.noreply.github.com"
+          commit_message: "updated readme with blog post"
+          template: "* [$title]($url) - $date$newline"
+          date_format: "d mmm yyyy"

@@ -31,7 +31,7 @@ physics and lab task automation.
 * [Connect LXI instruments to a linux server](http://julienbarrier.eu/blog/2021/08/14/LXI-to-linux.html) - 14 Aug 2021
 * [The meaning of σ](http://julienbarrier.eu/blog/2021/03/25/meaning-sigma.html) - 25 Mar 2021
 * [Recent studies on twisted monolayer-bilayer graphene](http://julienbarrier.eu/blog/2021/03/03/twisted-mono-bilayer-gr.html) - 3 Mar 2021
-* [Measurement errors and uncertainties](http://julienbarrier.eu/blog/2021/02/24/measurement-error-and-uncertainty.html) - 24 Feb 2021<!-- BLOG-POST-LIST:END -->
+* [Measurement errors and uncertainties](http://julienbarrier.eu/blog/2021/02/24/measurement-error-and-uncertainty.html) - 24 Feb 2021<!-- BLOG-POST-LIST:END -->  
 more on [julienbarrier.eu](https://julienbarrier.eu/)
 
 ### stats

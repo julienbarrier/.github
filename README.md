@@ -27,11 +27,11 @@ lab task automation.
 
 ### latest blog posts
 <!-- BLOG-POST-LIST:START -->
+* [The best reference manager](http://julienbarrier.eu/blog/2022/07/08/writing-thesis.html) - 8 Jul 2022
+* [Floquet-Andreev states](http://julienbarrier.eu/blog/2022/03/24/floquet-andreev-states.html) - 24 Mar 2022
+* [APS March Meeting wrap-up](http://julienbarrier.eu/blog/2022/03/21/march-meeting.html) - 21 Mar 2022
 * [Too early for a covid Nobel](http://julienbarrier.eu/blog/2021/10/03/covid-nobel.html) - 3 Oct 2021
-* [Enable high voltage on a Keithley sourcemeter](http://julienbarrier.eu/blog/2021/08/28/keithley-interlock.html) - 28 Aug 2021
-* [Connect LXI instruments to a linux server](http://julienbarrier.eu/blog/2021/08/14/LXI-to-linux.html) - 14 Aug 2021
-* [The meaning of σ](http://julienbarrier.eu/blog/2021/03/25/meaning-sigma.html) - 25 Mar 2021
-* [Recent studies on twisted monolayer-bilayer graphene](http://julienbarrier.eu/blog/2021/03/03/twisted-mono-bilayer-gr.html) - 3 Mar 2021<!-- BLOG-POST-LIST:END -->  
+* [Enable high voltage on a Keithley sourcemeter](http://julienbarrier.eu/blog/2021/08/28/keithley-interlock.html) - 28 Aug 2021<!-- BLOG-POST-LIST:END -->  
 more on [julienbarrier.eu](https://julienbarrier.eu/)
 
 ### stats

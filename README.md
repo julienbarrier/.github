@@ -5,9 +5,9 @@
   Find me on twitter!
 </a><br /><br />
 
-Hi, I'm Julien Barrier, currently PhD student in Condensed Matter Physics at The
-University of Manchester. Here are some of the projects I'm working on, involving
-physics and lab task automation.
+Hi, I'm Julien Barrier. I'm a Condensed Matter Physicist at The University of
+Manchester. Here are some of the projects I'm working on, involving physics and
+lab task automation.
 
 ### languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)

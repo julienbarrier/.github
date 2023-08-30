@@ -5,9 +5,12 @@
   Find me on twitter!
 </a><br /><br />
 
-Hi, I'm Julien Barrier. I'm a Condensed Matter Physicist at The University of
-Manchester. Here are some of the projects I'm working on, involving physics and
-lab task automation.
+Hi, I'm Julien Barrier. I'm a Condensed Matter Physicist at ICFO, The Institute
+of Photonic Sciences (Barcelona, spain). I mostly work on combination of
+electronic transport and infrared/THz pumping.
+
+My github profile includes projects I am working on as part of my academic
+career, involving physics and lab tasks automation.
 
 ### languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)

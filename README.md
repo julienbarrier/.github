@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Julien Barrier">
   <img align="left" alt="Julien Barrier | Twitter" width="21px" src="https://raw.githubusercontent.com/julienbarrier/.github/master/assets/twitter.svg" />
   Find me on twitter!
-</a><br /><br />
+</a><a href="https://www.linkedin.com/in/barrierjulien/" style="margin-left: 9em">Linkedin profile</a><br /><br />
 
 Hi, I'm Julien Barrier. I'm a Condensed Matter Physicist at ICFO, The Institute
 of Photonic Sciences (Barcelona, spain). I mostly work on combination of

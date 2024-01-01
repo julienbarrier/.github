@@ -30,11 +30,11 @@ career, involving physics and lab tasks automation.
 
 ### latest blog posts
 <!-- BLOG-POST-LIST:START -->
+* [What is a quasiparticle?](http://julienbarrier.eu/blog/2024/01/01/quasiparticles.html) - 1 Jan 2024
 * [Refresh your nobel predictions](http://julienbarrier.eu/blog/2023/10/02/nobel.html) - 2 Oct 2023
 * [How to write a research proposal](http://julienbarrier.eu/blog/2023/03/08/how-to-write-proposal-sg.html) - 8 Mar 2023
 * [Annual nobel predictions](http://julienbarrier.eu/blog/2022/09/29/nobel.html) - 29 Sep 2022
-* [The best reference manager](http://julienbarrier.eu/blog/2022/07/08/writing-thesis.html) - 8 Jul 2022
-* [Floquet-Andreev states](http://julienbarrier.eu/blog/2022/03/24/floquet-andreev-states.html) - 24 Mar 2022<!-- BLOG-POST-LIST:END -->  
+* [The best reference manager](http://julienbarrier.eu/blog/2022/07/08/writing-thesis.html) - 8 Jul 2022<!-- BLOG-POST-LIST:END -->  
 more on [julienbarrier.eu](https://julienbarrier.eu/)
 
 ### stats
